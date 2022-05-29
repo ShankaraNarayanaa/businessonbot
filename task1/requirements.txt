@@ -1,0 +1,13 @@
+aiohttp
+Flask
+gunicorn
+Jinja2
+numpy
+oauthlib
+pandas
+plotly
+psycopg2
+regex
+requests
+sqlalchemy
+tqdm
